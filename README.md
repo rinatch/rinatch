@@ -1,4 +1,4 @@
-Hi there 👋
+#### Hi there, my name is Rinat👋
 
 I currently work at Western Digital Corporation helping develop embedded flash memory devices. Plus, I am part of the company’s brand ambassadors. 
 

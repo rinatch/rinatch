@@ -7,5 +7,11 @@ I currently work at Western Digital Corporation helping develop embedded flash m
  I can wholeheartedly say that I'm a volunteer since I always find myself helping others in the fields of my expertise.
 
 My Technology Stack:
+
+
+
 📌 C, C++, Java, Python
+
+
+
 📌 MATLAB, VHDL, Assembly, Bash (Linux), Verilog, SystemVerilog

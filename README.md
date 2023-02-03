@@ -1,4 +1,4 @@
-######## **Hi there, my name is Rinat**👋
+ **Hi there, my name is Rinat**👋
 
 I currently work at Western Digital Corporation as a Design Verification Engineer helping develop embedded flash memory devices. Plus, I am part of the company’s brand ambassadors. 
 
